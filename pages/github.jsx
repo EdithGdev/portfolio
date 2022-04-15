@@ -41,7 +41,7 @@ const GithubPage = ({ repos, user }) => {
       </div>
       <div className={styles.contributions}>
         <GitHubCalendar
-          username="nazariy995"
+          username="EdithGdev"
           theme={theme}
           hideColorLegend
         />
