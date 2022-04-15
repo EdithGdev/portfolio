@@ -7,96 +7,49 @@ const ContactCode = () => {
         <span className={styles.className}>.socials</span> &#123;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;website:{' '}
-        <a href="https://nitinranganath.me" target="_blank" rel="noopener">
-          nitinranganath.me
+        &nbsp;&nbsp;&nbsp;Book A Meeting:{' '}
+        <a href="https://calendly.com/edithg" target="_blank" rel="noopener">
+          calendly.com/EdithG
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;email:{' '}
+        &nbsp;&nbsp;&nbsp;E-mail:{' '}
         <a
-          href="mailto:nazariy@cleverprogrammer.com"
+          href="mailto:edithgee@yahoo.com"
           target="_blank"
           rel="noopener"
         >
-          nazariy@cleverprogrammer.com
+          edithgee@yahoo.com
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;github:{' '}
-        <a href="https://github.com/nazariy995" target="_blank" rel="noopener">
-          nazariy995
+        &nbsp;&nbsp;&nbsp;GitHub:{' '}
+        <a href="https://github.com/EdithGdev" target="_blank" rel="noopener">
+          EdithGdev
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;linkedin:{' '}
+        &nbsp;&nbsp;&nbsp;LinkedIn:{' '}
         <a
-          href="https://www.linkedin.com/in/nitinranganath/"
+          href="www.linkedin.com/in/EdithGdev"
           target="_blank"
           rel="noopener"
         >
-          nitinranganath
+          EdithGdev
         </a>
         ;
       </p>
       <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;twitter:{' '}
+        &nbsp;&nbsp;&nbsp;Instagram:{' '}
         <a
-          href="https://www.twitter.com/iamnitinr"
+          href="https://www.instagram.com/edithgdev/"
           target="_blank"
           rel="noopener"
         >
-          iamnitinr
-        </a>
-        ;
-      </p>
-      <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;instagram:{' '}
-        <a
-          href="https://www.instagram.com/iamnitinr"
-          target="_blank"
-          rel="noopener"
-        >
-          iamnitinr
-        </a>
-        ;
-      </p>
-      <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;polywork:{' '}
-        <a
-          href="https://www.polywork.com/nitinranganath"
-          target="_blank"
-          rel="noopener"
-        >
-          nitinranganath
-        </a>
-        ;
-      </p>
-      <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;telegram:{' '}
-        <a href="https://t.me/iamnitinr" target="_blank" rel="noopener">
-          iamnitinr
-        </a>
-        ;
-      </p>
-      <p className={styles.line}>
-        &nbsp;&nbsp;codepen:{' '}
-        <a href="https://codepen.io/itsnitinr" target="_blank" rel="noopener">
-          nitinranganath
-        </a>
-        ;
-      </p>
-      <p className={styles.line}>
-        &nbsp;&nbsp;codesandbox:{' '}
-        <a
-          href="https://codesandbox.io/u/itsnitinr"
-          target="_blank"
-          rel="noopener"
-        >
-          itsnitinr
+          EdithGdev
         </a>
         ;
       </p>

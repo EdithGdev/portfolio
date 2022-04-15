@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "name": "YouTube Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "name": "OpenSea Clone",
+    "image": "/../public/os-clone.png",
+    "description": "A platform for buying and selling NFTs",
+    "tags": ["react", "api", "css", "react native", "ThirdWeb"],
+    "source_code": "https://github.com/EdithGdev/opensea-blockchain-clone"
   },
   {
     "id": 1,
-    "name": "YouTube Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "name": "Cool G NFT ",
+    "image": "/../public/coolg.png",
+    "description": "A display of NFTs that are stored in ThirdWeb blockchain platform",
+    "tags": ["react", "api", "css", "react native", "Tailwind"],
+    "source_code": "https://github.com/EdithGdev/CoolG-NFT"
   }
 ]

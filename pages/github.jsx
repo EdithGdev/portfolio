@@ -52,12 +52,12 @@ const GithubPage = ({ repos, user }) => {
 
 export async function getStaticProps() {
   const userRes = await fetch(
-    `https://api.github.com/users/nazariy995`
+    `https://api.github.com/users/EdithGdev`
   );
   const user = await userRes.json();
 
   const repoRes = await fetch(
-    `https://api.github.com/users/nazariy995/repos?sort=created_at&per_page=10`
+    `https://api.github.com/users/EdithGdev/repos?sort=created_at&per_page=10`
   );
   const repos = await repoRes.json();
 
