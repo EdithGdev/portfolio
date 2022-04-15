@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "OpenSea Clone",
-    "image": "/../public/os-clone.png",
+    "image": "/../static/os-clone.png",
     "description": "A platform for buying and selling NFTs",
     "tags": ["react", "api", "css", "react native", "ThirdWeb"],
     "source_code": "https://github.com/EdithGdev/opensea-blockchain-clone"
@@ -10,7 +10,7 @@
   {
     "id": 1,
     "name": "Cool G NFT ",
-    "image": "/../public/coolg.png",
+    "image": "/../static/coolg.png",
     "description": "A display of NFTs that are stored in ThirdWeb blockchain platform",
     "tags": ["react", "api", "css", "react native", "Tailwind"],
     "source_code": "https://github.com/EdithGdev/CoolG-NFT"
