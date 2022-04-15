@@ -12,13 +12,13 @@ const CustomHead = ({ title }) => {
         name="keywords"
         content="nitin, nitin ranganath, ranganath, web developer, nitin web developer, nitin developer, mern stack, nitin portfolio"
       />
-      <meta property="og:title" content="Nitin Ranganath's Portfolio" />
+      <meta property="og:title" content="Edith's Portfolio" />
       <meta
         property="og:description"
         content="A full-stack developer building websites that you'd like to use."
       />
-      <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
-      <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
+      <meta property="og:image" content="https://i.imgur.com/4cgudDa.png" />
+      <meta property="og:url" content="https://portfolio-eight-delta-20.vercel.app" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );
